@@ -1,8 +1,31 @@
-# React + Vite
+# 🛍️ E-commerce App with React, Redux & Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern and responsive e-commerce web application built with **React**, **Redux**, and **React Router**. It allows users to sign in, browse products, manage their cart, place orders, and access user profile functionalities.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+---
+
+## 🚀 Features
+
+- 🔐 User Sign In with localStorage-based auth
+- 🏠 Home, About & Contact Pages
+- 🛒 Product Listing
+- 🛍️ Add to Cart & Order Flow
+- 👤 User Profile Page
+- 📦 Protected Routes (can only access main app after signing in)
+- ⚙️ React Router for navigation
+- 🗃️ Redux for state management
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js**
+- **Redux Toolkit**
+- **React Router DOM**
+- **Vite**
+- **Tailwind CSS**
+- **localStorage** for auth status
